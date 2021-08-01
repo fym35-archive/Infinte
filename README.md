@@ -1,2 +1,2 @@
 # Infinte
-https://infinte.neocities.org
+the source code of https://infinte.rf.gd
